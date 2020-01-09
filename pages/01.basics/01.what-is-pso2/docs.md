@@ -23,6 +23,11 @@ You will also need to download the game, which at the time of writing, is **70 G
 ### PS4
 **WARNING: Upon starting either the PS4 or PSVita versions of the game, you will be prompted to log in using your SEGA ID. Upon logging in for the first time, your PlayStation Network ID will become BOUND to the SEGA ID, and you will not be able to use your SEGA ID on any other PlayStation Network ID. This process cannot be undone!**
 
+Differences from the PC version:
+* The game is permanently set to Tier 6 graphics settings.
+* The PS4 version cannot access Cloud blocks. It is also not possible to communicate with players playing the Nintendo Switch version of PSO2 Cloud in MyRooms or Team Rooms.
+* Toro and Kuro NPCs are accessible in the Lobby Area.
+
 There are two methods of obtaining the PS4 version: Download and Physical.
 
 #### Download
@@ -33,6 +38,16 @@ If you have the disk version of the game, the game can be installed on any PS4 s
 
 ### PSVita
 Much like the PS4 version, it is possible to get the game via digital download or physical versions. It is also possible to download the game if you have custom firmware installed.
+
+Differences from the PC version:
+* The game plays in noticeably reduced graphical quality, comparable to lower graphics settings on the PC version.
+* Notable performance issues in certain content, especially when there are too many players/effects onscreen.
+* PSVita players can only access Blocks designated as accessible by PSVita or Cross-Play Blocks (Blocks with the number designation B2XX). Vita players can also only access Cross-Play Blocks in Shared Ship.
+* The 3 Button feature is not available.
+* Controls are adapted to use the touchscreen, such as using the Subpalette or activating Third-Person Shooter camera mode.
+* Certain features are not available, such as weapon compatability with certain Lobby Actions.
+* An Augmented Reality camera feature is available from the main menu. This feature allows you to superimpose assets from the game onto real life images using the Vita's camera and take pictures with them.
+* Toro and Kuro NPCs are accessible in the Lobby Area.
 
 #### Download
 You must create a Japanese PSN ID to download the free version of the game, as well as have a spare memory card to download the game on. You must also have a memory card of size **32 GB** or higher to install the game.
@@ -48,6 +63,13 @@ If you have the Game Card version of the game, the game can be installed on any 
 You must create a Japanese Profile on your Nintendo Switch to download PSO2 Cloud. To do so, simply create a new Profile on your Switch and set the Profile's locale to "Japan".
 
 Unlike other versions of the game, the version on the Nintendo Switch is streamed to your system over the internet via a cloud server. As such, **this version of the game may not work as intended depending on location and internet quality.**
+
+Differences from the PC version:
+* The Switch version can only access Cloud Blocks (Blocks with the number designation B3XX). Switch players can only access Cloud Blocks on Shared Ship.
+* Certain graphics settings are not available in the Options menu.
+* The Cloud version has segregated Rankings for Challenge Quest and Battle Arena modes.
+* Switch version players cannot communicate with players using the PS4 or PSVita versions of the game in MyRooms and Team Rooms.
+* Switch players can obtain unique Titles by completing Quests while playing the Switch version. These Titles award cosmetic items based on Link from The Legend of Zelda: Breath of the Wild. These cosmetics can be used in any version of the game once obtained.
 
 ## Starting & selecting a ship
 
